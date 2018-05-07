@@ -2,6 +2,8 @@
 
 # This is not a true copy, I have push this project just for my reference.
 
+# Original Git https://github.com/adamzareba/company-structure-spring-security-oauth2-authorities
+
 # Spring Boot + Spring Security + OAuth2
 
 Example Spring Boot + Hibernate + Spring Security + OAuth2 project for demonstration purposes. 
