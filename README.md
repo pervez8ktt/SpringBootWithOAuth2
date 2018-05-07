@@ -1,4 +1,4 @@
-# All Credits Goes to https://dzone.com/articles/storing-passwords-securely-with-bcrypt-and-java
+# All Credits Goes to https://dzone.com/articles/secure-spring-rest-with-spring-security-and-oauth2
 
 # This is not a true copy, I have push this project just for my reference.
 
