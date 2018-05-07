@@ -1,3 +1,7 @@
+# All Credits Goes to https://dzone.com/articles/storing-passwords-securely-with-bcrypt-and-java
+
+# This is not a true copy, I have push this project just for my reference.
+
 # Spring Boot + Spring Security + OAuth2
 
 Example Spring Boot + Hibernate + Spring Security + OAuth2 project for demonstration purposes. 
